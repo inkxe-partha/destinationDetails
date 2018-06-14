@@ -1,4 +1,6 @@
-[{
+{
+"destinationDetails":[
+	{
 	"id": 1,
 	"name": "Miami",
 	"type": "Destination",
@@ -16,4 +18,6 @@
 			"name": "Key West"
 		}
 	]
-}]
+	}
+     ]
+}
